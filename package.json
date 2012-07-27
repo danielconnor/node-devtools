@@ -1,0 +1,13 @@
+{ 
+  "name" : "fh-devtools",
+  "description" : "Connector for fhc local to connect to chrome remote debugger",
+  "version": "0.1.1",
+  "preferGlobal" : false,
+  "author" : "Daniel Connor <daniel.connor@feedhenry.com>",
+  "dependencies" :{
+    "websocket": "*"
+  },
+  "engines" : {
+    "node" : ">=0.4"
+  }
+}
